@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b98ba655-bcf8-4b58-b793-66ef30ba74a6" name="Changes" comment="balazs.matyassy: v2">
-      <change beforePath="$PROJECT_DIR$/src/bolyai/hello.txt" beforeDir="false" />
+    <list default="true" id="b98ba655-bcf8-4b58-b793-66ef30ba74a6" name="Changes" comment="vidra gergo: asd">
+      <change afterPath="$PROJECT_DIR$/src/bolyai/String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bolyai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bolyai/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,14 +32,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bolyai" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670845167353</updated>
       <workItem from="1670845172789" duration="865000" />
+      <workItem from="1670846911573" duration="155000" />
     </task>
     <task id="LOCAL-00001" summary="balazs.matyassy: v2">
       <created>1670846031636</created>
@@ -75,6 +83,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="balazs.matyassy: v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="balazs.matyassy: v2" />
+    <MESSAGE value="vidra gergo: asd" />
+    <option name="LAST_COMMIT_MESSAGE" value="vidra gergo: asd" />
   </component>
 </project>
